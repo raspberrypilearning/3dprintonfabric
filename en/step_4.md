@@ -14,7 +14,8 @@ Now that you’ve set your safety offset, place your fabric on the print bed.
 Always test on some scrap fabric before you attempt to print on your favourite clothing. We placed the fabric evenly on the print bed, and attached it around the perimeter with several bulldog clips. Pull the fabric as taut as possible on all sides, to prevent it from sliding around on the print bed. Make sure the clips won’t be in the way of your extruder as it travels to the start point. 
 
 Position the fabric so that the excess hangs to the most unused part of your printer — away from the extruder and any moving rods. 
-With a Witbox, the nozzle moves in relation to the print bed, whereas with other printers, the print bed will move in relation to the nozzle. This latter mechanism wouldn’t be ideal for printing on fabric because the excess fabric would get dragged around and likely get caught in the printer’s mechanism.
+
+With a Witbox printer, the nozzle moves in relation to the print bed, whereas with other printers, the print bed will move in relation to the nozzle. This latter mechanism wouldn’t be ideal for printing on fabric because the excess fabric would get dragged around and likely get caught in the printer’s mechanism.
 
 ### Step 3: Tune the offset
 Now, with your fabric securely on the print bed, we need to fine-tune the offset again to make sure the nozzle is perfectly positioned above the fabric for the best 3D printing. 
