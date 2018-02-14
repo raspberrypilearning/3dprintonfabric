@@ -14,3 +14,5 @@ title: Other ways to attach 3D prints to fabric
 - Print the text letters or design you need directly onto the print bed as you would normally (not onto fabric), and then attach them to the fabric with thread, as you would attach an embellishment.
 --- /collapse ---
 
+![Sprucing up an old pair of jeans](images/step2.jpg)
+

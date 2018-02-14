@@ -27,3 +27,5 @@ Once you have adjusted the offset to perfection, you will also need to level the
 The printer we used had auto-levelling by means of an inductive sensor, so it performed the bed-levelling automatically after we set the offset. If your printer comes with auto-levelling, definitely use it at this point. 
 
 If it doesn’t auto-level, you can manually level the print bed now using the same copy paper method, but moving the nozzle to different parts of the print bed (ideally, 4–5 points). 
+
+![These edgy spikes could easily be used for cosplay. The printer had no trouble printing high 3D shapes directly onto fabric](images/step4.jpg)
