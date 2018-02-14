@@ -7,7 +7,7 @@ The prints do come off the fabric (cleanly!) if you pull them hard enough, so we
 
 This is just the beginning of our experiments, and we are constantly learning. Do you have tips or tricks to share? Get in touch! 
 
-This tutorial is the result of our collaboration with Josef Dunne at Champion 3D, who consulted us on best practices for 3D printing and helped make these 3D prints possible on fabric (champion3d.com). 
+This tutorial is the result of our collaboration with Josef Dunne at Champion 3D, who consulted us on best practices for 3D printing and helped make these 3D prints possible on fabric ([champion3d.com](https://champion3d.com){:target="_blank"}). 
 
 --- collapse ---
 ---
