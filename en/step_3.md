@@ -10,7 +10,7 @@ Most slicing software will require you to enter these settings, but you may have
 ---
 title: Other ways to attach 3D prints to fabric
 ---
-- In the 3D slicer settings, add a ‘skirt’ to your design, which is basically an outline around your model, several shells thick, that will adhere to the fabric (as in the photo with the spikes). You can then sew through this skirt with a needle and thread, which will permanently attach the print.  
+- In the 3D slicer settings, add a ‘skirt’ to your design, which is basically an outline around your model, several shells thick, that will adhere to the fabric. You can then sew through this skirt with a needle and thread, which will permanently attach the print.  
 - Print the text letters or design you need directly onto the print bed as you would normally (not onto fabric), and then attach them to the fabric with thread, as you would attach an embellishment.
 --- /collapse ---
 
