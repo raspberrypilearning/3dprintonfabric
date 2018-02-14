@@ -14,3 +14,5 @@ For this tutorial, we experimented with cotton, satin, denim, and linen. They ha
 - Denim: Warping: medium, Attachment: poor, Tidiness of first layer: Yes
 - Linin: Warping: low, Attachment: good, Tidiness of first layer: Yes
 --- /collapse ---
+
+![Decorate your clothes in a new way by 3D printing directly onto fabric](images/step2.jpg)
