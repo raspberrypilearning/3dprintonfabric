@@ -8,11 +8,14 @@ Whether you decide to make your own design or use an existing model, you will en
 ---
 title: Different fabrics
 ---
-For this tutorial, we experimented with cotton, satin, denim, and linen. They had slightly different properties, but all produced wearable prints. We even threw them in the wash, inside out, and surprisingly, the smaller parts stayed on (although the large spike didn’t).
-- **Cotton**: Warping: medium; Attachment: good; Tidiness of first layer: Yes
-- **Satin**: Warping: low; Attachment: very good; Tidiness of first layer: No
-- **Denim**: Warping: medium; Attachment: poor; Tidiness of first layer: Yes
-- **Linen**: Warping: low; Attachment: good; Tidiness of first layer: Yes
+For this tutorial, we experimented with cotton, satin, denim, and linen. They had slightly different properties, but all produced wearable prints. We even threw them in the wash inside out, and surprisingly, the smaller parts stayed on (the large spike didn’t).
+
+| | Cotton | Satin | Denim | Linen |
+| --- | --- | --- | --- | --- |
+| **Warping** | medium | low | medium | low |
+| **Attachment** | good | very good | poor | good |
+| **Tidiness of first layer** | yes | no | yes | yes |
+
 --- /collapse ---
 
 ![Decorate your clothes in a new way by 3D printing directly onto fabric](images/step2.jpg)
