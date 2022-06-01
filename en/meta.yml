@@ -1,8 +1,9 @@
+---
 title: 3D print on fabric
 hero_image: images/banner.jpg
-description: Take clothing design to a new level with 3D art 
-theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+description: Take clothing design to a new level with 3D art
+theme: blue
+duration: 2
 listed: false
 ingredient: false
 copyedit: false
@@ -11,8 +12,8 @@ interests:
 technologies: 
 site_areas: HackSpace
 steps:
-  - title: Introduction
-  - title: Design
-  - title: Slicing
-  - title: Preparing the printer
-  - title: Print
+- title: Introduction
+- title: Design
+- title: Slicing
+- title: Preparing the printer
+- title: Print
