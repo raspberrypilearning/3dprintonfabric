@@ -7,15 +7,13 @@ duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum:
-interests:
-technologies:
+curriculum: 
+interests: 
+technologies: 
 site_areas: HackSpace
 steps:
 - title: Introduction
-  completion: engaged
 - title: Design
 - title: Slicing
 - title: Preparing the printer
-  completion: internal
 - title: Print
